@@ -1,7 +1,7 @@
 # Royce's Online Profile
 Hi all,
 
-My name is Royce, I live in Bendigo Victoria. After many years slugging away in the trades and security I went after a sea change and was lucky enough to find work in the Events sector providing WiFi, networking and tech solutions for festivals, corporate brand activations and expo's.
+My name is Royce, I live in Bendigo Victoria. After many years slugging away in the trades and security I went after a career change and was lucky enough to find work in the Events sector providing WiFi, networking and tech solutions for festivals, corporate brand activations and expo's.
 
 My aim in this course is to further develop my knowledge around IT, and find new ways to implement technology into the events space.
 
