@@ -5,7 +5,7 @@ My name is Royce, I live in Bendigo Victoria. After many years slugging away in 
 
 My aim in this course is to further develop my knowledge around IT, and find new ways to implement technology into the events space.
 
-My current IT skill-set is very networking oriented with basic knowledge IP protocols. I have no experience with code / programing or web development and this is the area I wish to focus. I have a fairly firm grasp of 3Dcad software and have had training in Vectorworks, I am currently in the process of teaching myself Fusion 360.
+My current IT skill-set is very networking orientated with basic knowledge IP protocols. I have no experience with code / programing or web development and this is the area I wish to focus. I have a fairly firm grasp of 3Dcad software and have had training in Vectorworks, I am currently in the process of teaching myself Fusion 360.
 
 My hobbies include Guitar, Gaming, Drafting / 3D moedeling, 3D printing, Woodworking and fabrication. (I guess I would fall into the maker category).
 
