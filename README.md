@@ -1,4 +1,7 @@
 # Royce's Online Profile
+Email: roycegriffin63@gmail.com
+Student Number: s3779228
+
 Hi all,
 
 My name is Royce, I live in Bendigo Victoria. After many years slugging away in the trades and security I went after a career change and was lucky enough to find work in the events sector providing WiFi, networking and tech solutions for festivals, corporate brand activations and expo's.
